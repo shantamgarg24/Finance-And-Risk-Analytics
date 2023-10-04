@@ -1,0 +1,25 @@
+﻿Ticker,Industry,Company Name
+AAL,Aviation,American Airlines Group Inc
+ALGT,Aviation,Allegiant Travel Company
+ALK,Aviation,Alaska Air Group Inc
+DAL,Aviation,Delta Air Lines Inc
+HA,Aviation,Hawaiian Holdings Inc
+LUV,Aviation,Southwest Airlines Co
+BCS,Finance,Barclays
+CS,Finance,Credit Suisse
+DB,Finance,Deutsche Bank
+GS,Finance,Goldman Sachs
+MS,Finance,Morgan Stanley
+WFC,Finance,Wells Fargo 
+JNJ,Healthcare,Johnson & Johnson
+MRK,Healthcare,Merck and CO inc.
+PFE,Healthcare,Pfizer inc
+UNH ,Healthcare,UnitedHealthGroup Inc
+BHC,Pharmaceuticals,Bausch Health Companies inc
+RHHBY,Pharmaceuticals,Roche Holding AG
+AAPL,Technology,Apple Inc
+AMZN,Technology,Amazon
+FB,Technology,Facebook
+GOOG,Technology,Alphabet
+IBM,Technology,IBM
+MSFT,Technology,Microsoft
